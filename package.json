@@ -1,12 +1,12 @@
 {
-  "name": "tuto",
+  "name": "Bootstrap Strter",
   "version": "1.0.0",
-  "description": "testing bt4",
+  "description": "Bootstrap strter with gulp and npm",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Bhavesh Gohil (bhavesh.gohil99@gmail.com)",
   "license": "ISC",
   "devDependencies": {
     "browser-sync": "^2.24.4",
